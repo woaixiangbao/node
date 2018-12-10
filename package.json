@@ -1,0 +1,22 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "node learn",
+  "main": "hello.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woaixiangbao/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jianqing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woaixiangbao/node/issues"
+  },
+  "homepage": "https://github.com/woaixiangbao/node#readme"
+}
